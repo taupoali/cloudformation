@@ -1,0 +1,7 @@
+{
+    "Resources": {
+        "myTestBucket01": {
+            "Type": "AWS::S3::Bucket" 
+        }
+    }
+}
