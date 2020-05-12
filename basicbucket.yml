@@ -1,3 +1,3 @@
 Resources:
   MyS3Bucket:
-    Type: AWS::S3::MyS3Bucket
+    Type: AWS::S3::Bucket
